@@ -172,6 +172,7 @@ pnpm tsx src/main.ts ./package.json --json
 
 ## 7. CI/CD Integration Example (GH Actions)
 You can integrate this scanner into your GitHub Actions workflow using `pnpm`.
+Copy all the files in this repo and maintain it in your project, then create a workflow
 
 `.github.workflows.security-scan.yaml`
 
